@@ -1,0 +1,1 @@
+ value1 = input("digite um número")

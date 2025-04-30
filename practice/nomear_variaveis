@@ -1,0 +1,17 @@
+beginning = "hello world"
+print(beginning)
+print (len(beginning))
+beginning = beginning + "!"
+print(beginning)
+luckyNumber = 12
+luckyNumber = luckyNumber + 1
+print(luckyNumber)
+validationResult = (luckyNumber % 2) == 0
+print(validationResult)
+aux = luckyNumber 
+luckyNumber = beginning 
+beginning = aux
+print("beginning")
+print(beginning)
+print("luckyNumber")
+print(luckyNumber)
